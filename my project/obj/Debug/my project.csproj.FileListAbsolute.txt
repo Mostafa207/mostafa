@@ -1,0 +1,39 @@
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my project.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my project.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\adminf.g.cs
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\adminlogn.g.cs
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\delete.g.cs
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\forget.g.cs
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\login.g.cs
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\profile.g.cs
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\search.g.cs
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\singin.g.cs
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my project_Content.g.cs
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my project_MarkupCompile.cache
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my project_MarkupCompile.lref
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\bin\Debug\my project.exe.config
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\bin\Debug\my project.exe
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\bin\Debug\my project.pdb
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\App.baml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\adminf.baml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\adminlogn.baml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\delete.baml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\forget.baml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\login.baml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\profile.baml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\search.baml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\singin.baml
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my project.g.resources
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my_project.Properties.Resources.resources
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my project.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my project.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my project.csproj.CopyComplete
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my project.exe
+C:\Users\IT\Desktop\mostafa ahmed 0522049\my project\obj\Debug\my project.pdb

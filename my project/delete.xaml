@@ -1,0 +1,19 @@
+﻿<Page x:Class="my_project.delete"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:my_project"
+      Background="White"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="delete">
+
+    <Grid>
+        <Button Content="delete" HorizontalAlignment="Left" Margin="601,63,0,0" VerticalAlignment="Top" Style="{StaticResource button}" Click="Button_Click"/>
+        <TextBox x:Name="txtphone" HorizontalAlignment="Center" Margin="0,63,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Style="{StaticResource txtbox}"/>
+        <Label Content="phone" HorizontalAlignment="Left" Margin="97,63,0,0" VerticalAlignment="Top" Style="{StaticResource lable}"/>
+        <DataGrid x:Name="grad" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,205,0,0" Height="NaN" Width="NaN"/>
+
+    </Grid>
+</Page>
